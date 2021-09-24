@@ -12,7 +12,7 @@ function HeroComponent() {
       </h2>
       <p className="pt-5 leading-6 ">
         I’m a full stack developer engineer specializing in building all round
-        digital soultions. Currently, I’m working as at
+        digital solutions. Currently, I’m working at&nbsp;
         <a
           href={"https://www.kantime.com"}
           target={"_blank"}

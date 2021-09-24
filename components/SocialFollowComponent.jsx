@@ -5,7 +5,9 @@ import SocialIconComponent from "./SocialIconComponent";
 function SocialFollowComponent() {
   return (
     <>
-      <p className="text-yellow-200 font-mono text-center pb-2">Contact</p>
+      <p className=" sm:hidden text-yellow-200 font-mono text-center pb-2">
+        Contact
+      </p>
 
       <div className=" sm:hidden text-white pb-7 opacity-80 text-center font-bold text-3xl	">
         Get In Touch
